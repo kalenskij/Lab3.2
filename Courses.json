@@ -1,0 +1,24 @@
+{
+    "Local": {
+        "331fe8d5-8159-11ed-b15d-ec2e98457440": {
+            "name": "Math course",
+            "duration": 30,
+            "program": "Math",
+            "capacity": 100,
+            "price": 150,
+            "type": "online",
+            "teacher": "Olena Kryvoshii"
+        }
+    },
+    "OffSet": {
+        "331fe8d6-8159-11ed-a7f3-ec2e98457440": {
+            "name": "Programming course",
+            "duration": 30,
+            "program": "Programming",
+            "capacity": 50,
+            "price": 250,
+            "address": "Pravdy 11 st.",
+            "teacher": "Oksana Butenko"
+        }
+    }
+}
